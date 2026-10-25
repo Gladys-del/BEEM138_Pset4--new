@@ -1,0 +1,18 @@
+BEEM138 Problem Set 4 — Results
+PART (a): Steady state
+k* = 4.8039866567
+c* = 1.3611295527
+
+PART (b): Shooting algorithm
+k0 = 2.4019933283
+c0 = 1.021359438231
+k_T = 4.8039866569
+c_T = 1.3551801569
+Terminal capital gap = 0.0000000002
+Terminal consumption gap = -0.0059493959
+
+PART (c): Half-life
+Halfway capital target = 3.6029899925
+Discrete half-life = 10 periods
+
+PART (d): Policy path saved to results/policy_function.csv
